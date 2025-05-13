@@ -3,7 +3,7 @@
 MERN Stack application for maintaining documents and adding comments within them.
 
 ## Tech Stack
-* MongoDB
+* Mongo DB
 * Express JS
 * React JS
 * Node JS
@@ -11,7 +11,7 @@ MERN Stack application for maintaining documents and adding comments within them
 ## Features
 * Persistent application made in the MERN stack.
 * Made using the React Material UI.
-* JWT Authentication.
+* JWT Authentication .
 * The User can:
   - Add Multiple Documents.
   - Delete Documents.
